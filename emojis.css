@@ -1,0 +1,123 @@
+body {
+  background-color: #3b3939;
+}
+picture {
+  margin-left: 150px;
+}
+h1 {
+  background-color: #fff;
+  width: 200px;
+  text-align: center;
+  border-radius: 10px;
+  display: inline-block;
+}
+h2 {
+  font: normal 15pt times;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+#img {
+  background-color: #d6d6d6;
+  height: 250px;
+  width: 250px;
+  border-radius: 10px;
+}
+.valor {
+  height: 320px;
+  width: 250px;
+  background-color: #fff;
+  display: inline-block;
+  border-radius: 10px;
+  border: 5px solid #000;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+p {
+  font-size: 20px;
+  text-align: center;
+  background-color: #94ff94;
+  width: 230px;
+  height: 25px;
+  margin-left: 10px;
+}
+#explicação {
+  height: 250px;
+  width: 300px;
+  background-color: #fff;
+  border-radius: 5px;
+  display: inline-block;
+}
+mark {
+  background-color: #b9b9b9;
+}
+#pessoa1 {
+  border-radius: 10px;
+  width: 100px;
+  background-color: #dddd7f;
+  margin-left: 15px;
+  height: 25px;
+  margin-top: 0px;
+}
+#espaço1 {
+  height: 10px;
+  width: 770px;
+  background-color: none;
+  display: inline-block;
+}
+#espaço2 {
+  height: 10px;
+  width: 700px;
+  background-color: none;
+  display: inline-block;
+}
+#pessoa2 {
+  border-radius: 10px;
+  width: 100px;
+  background-color: #dd7f7f;
+  margin-left: 15px;
+}
+#resposta {
+  border-radius: 5px;
+  width: 300px;
+  background-color: #f4ffe1;
+  border: 2px solid #000;
+  margin-left: 15px;
+  height: 46px;
+}
+#conversa {
+  background-color: #fff;
+  height: 200px;
+  width: 400px;
+  border-radius: 10px;
+}
+#imgchat {
+  height: 100px;
+  width: 100px;
+  background-color: #709e70;
+  border: 2px solid #000;
+  border-radius: 10px;
+  margin-left: 15px;
+}
+.telefone {
+  border-radius: 20px;
+  border: 5px solid #000;
+  background-image: url("./Emojiart/Imagens/Emoji/Emojiart_imagens/celular.png");
+  height: 500px;
+  width: 330px;
+  display: inline-block;
+}
+.fundo {
+  height: 450px;
+  width: 330px;
+  background-color: #354b4e;
+  border-radius: 0px 0px 10px 10px;
+  margin-top: 40px;
+}
+.conversadigital {
+  background-color: #fff;
+  height: 500px;
+  width: 300px;
+}

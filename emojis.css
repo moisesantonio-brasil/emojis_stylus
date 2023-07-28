@@ -85,7 +85,8 @@ mark {
   background-color: #f4ffe1;
   border: 2px solid #000;
   margin-left: 15px;
-  height: 56px;
+  height: 60px;
+  font-size:12px;
 }
 #conversa {
   background-color: #fff;
